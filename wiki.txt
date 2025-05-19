@@ -15,7 +15,7 @@ git pull # Puxa as alterações do repositório remoto
 git push # Envia as alterações para o repositório remoto
 git clone url-do-repositorio # Clona um repositório remoto
 
-3 - Como resolver pull requests:
+3 - Como resolver Pull Requests:
 - Acesse o repositório no Github
 - Clique na aba "Pull requests"
 - Clique no pull request que deseja revisar
